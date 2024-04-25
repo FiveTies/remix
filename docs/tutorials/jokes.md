@@ -237,7 +237,7 @@ app
 npm run dev
 ```
 
-Open [http://localhost:3000][http-localhost-3000] and the app should greet the world:
+Open [http://localhost:5173][http-localhost-5173] and the app should greet the world:
 
 ![Bare bones hello world app][bare-bones-hello-world-app]
 
